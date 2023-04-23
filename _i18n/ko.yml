@@ -1,0 +1,35 @@
+global:
+  tagline: 한국어
+  about: About
+  twitter: Twitter
+  github: GitHub
+langs:
+  ge: Deutsch
+  en: English
+  fr: Français
+  du: Nederlands
+  es: Español
+  it: Italiano
+  pt: Português
+  ru: Русский
+  ja: 日本語
+  ch: 中文
+  ko: 한국어
+  hi: हिन्दी
+  te: తెలుగు
+  ma: मराठी
+  ta: தமிழ்
+  tr: Türkçe
+  gr: Ελληνικά
+  pl: Polski
+  cz: Čeština
+  hu: Magyar
+  sw: Svenska
+  no: Norsk
+  da: Dansk
+  fi: Suomi
+  uk: Українська
+  ar: العربية
+  in: Indonesia
+titles:
+  pagination: Pagination
