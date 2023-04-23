@@ -1,4 +1,4 @@
-name: Explainme
+title: Explainme
 markdown: kramdown
 highlighter: pygments
 exclude: ["LICENSE.txt", "README.md"]
