@@ -53,7 +53,7 @@ a:hover {
 }
 
 .posts a {
-  color: #444;
+  color: #ffffff;
 }
 
 .posts a:hover {
@@ -82,6 +82,7 @@ a:hover {
 }
 
 .title {
+  color: #ddd;
   display: inline-block;
   text-align: center;
 }
@@ -133,10 +134,18 @@ a:hover {
 }
 
 #title {
-  color: #494949;
+  color: #ffffff;
   margin-bottom: 0.35em;
   font-size: 3.5em;
   text-transform: uppercase;
+  line-height: 40pt;
+}
+
+#youtube {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .post {
@@ -238,6 +247,7 @@ a:hover {
 }
 
 .post-title {
+  color: #ddd;
   font-weight: 600;
   font-size: 1.4em;
   text-transform: uppercase;
